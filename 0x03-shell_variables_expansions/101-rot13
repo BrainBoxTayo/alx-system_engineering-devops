@@ -1,2 +1,2 @@
 #!/bin/bash
-echo quote | rot13
+echo "quote" | rot13
