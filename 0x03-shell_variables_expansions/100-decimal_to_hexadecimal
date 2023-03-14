@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((g#DECIMAL))
+printf '%x\n' NUM
