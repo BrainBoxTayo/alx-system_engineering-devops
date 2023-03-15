@@ -1,0 +1,10 @@
+total 72 -rwxrwxrwx 1 brainboxtayo brainboxtayo  28 Mar 14 21:06 0-alias
+-rwxrwxrwx 1 brainboxtayo brainboxtayo  29 Mar 14 21:11 1-hello_you -rwxrwxrwx 1 brainboxtayo brainboxtayo  35 Mar 14 21:51 10-love_exponent_breath
+-rwxrwxrwx 1 brainboxtayo brainboxtayo  35 Mar 14 22:27 100-decimal_to_hexadecimal -rwxrwxrwx 1 brainboxtayo brainboxtayo  39 Mar 14 22:33 101-rot13
+-rwxrwxrwx 1 brainboxtayo brainboxtayo  40 Mar 15 19:16 102-odd -rwxrwxrwx 1 brainboxtayo brainboxtayo  32 Mar 14 21:58 11-binary_to_decimal
+-rwxrwxrwx 1 brainboxtayo brainboxtayo  60 Mar 14 22:08 12-combinations -rwxrwxrwx 1 brainboxtayo brainboxtayo  32 Mar 14 22:14 13-print_float
+-rwxrwxrwx 1 brainboxtayo brainboxtayo  40 Mar 14 21:27 2-path -rwxrwxrwx 1 brainboxtayo brainboxtayo  55 Mar 14 21:37 3-paths
+-rwxrwxrwx 1 brainboxtayo brainboxtayo  21 Mar 14 21:39 4-global_variables -rwxrwxrwx 1 brainboxtayo brainboxtayo  23 Mar 14 21:41 5-local_variables
+-rwxrwxrwx 1 brainboxtayo brainboxtayo  26 Mar 14 21:43 6-create_local_variable -rwxrwxrwx 1 brainboxtayo brainboxtayo  33 Mar 14 21:43 7-create_global_variable
+-rwxrwxrwx 1 brainboxtayo brainboxtayo  40 Mar 14 21:46 8-true_knowledge -rwxrwxrwx 1 brainboxtayo brainboxtayo  35 Mar 14 21:47 9-divide_and_rule
+-rw-r--r-- 1 brainboxtayo brainboxtayo   0 Mar 15 19:20 NewFILE -rw-r--r-- 1 brainboxtayo brainboxtayo 105 Mar 14 21:10 README.md
