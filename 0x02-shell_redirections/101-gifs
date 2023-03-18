@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -iname '*.gif' -printf '%f\0' | sort -t " " -k9 | tr '\0' '\n'
