@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ls with extra stuff
-for i in $(ls . -1);
+for i in *;
 do
-echo $i > names;
+echo "$i" > names;
 cut names -f 2 -d "-"
 done
