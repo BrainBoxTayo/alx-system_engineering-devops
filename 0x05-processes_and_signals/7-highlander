@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# To infinty and beyond (infinite loop)
+trap no_kill SIGTERM
+
+function no_kill()
+{
+	echo "I am invincible!!!";
+}
+while 'true';
+do
+echo "To infinity and beyond";
+sleep 2;
+done
