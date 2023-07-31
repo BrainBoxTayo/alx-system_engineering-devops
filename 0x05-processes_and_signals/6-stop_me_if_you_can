@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# no 4 stopper
+pkill -f 4-to_infinity_and_beyond;
