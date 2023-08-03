@@ -2,8 +2,7 @@
 # Configures etc/hosts
 LOCAL_HOST="127.0.0.1	localhost";
 FACEBOOK="8.8.8.8	facebook";
-FILE_NAME="~/hosts.new";
 cp /etc/hosts ~/hosts.new
 sed -i "s/127.0.0.2	localhost/$LOCAL_HOST/" ~/hosts.new;
-echo "$FACEBOOK" >> ~/hosts.new;
+sed -i "s/157.240.11.35	facebook/$FACEBOOK/" ~/hosts.new;
 cp -f ~/hosts.new /etc/hosts
