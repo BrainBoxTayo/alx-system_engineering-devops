@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Configures etc/hosts
+LOCAL_HOST="127.0.0.2	localhost";
+FACEBOOK="8.8.8.8	facebook";
+FILE_NAME="/etc/hosts";
+if [ -e $FILENAME ]; then
+sed -i "s/127.0.0.1	localhost/$LOCAL_HOST/" $FILE_NAME;
+sed -i "s/157.240.11.35	facebook/$FACEBOOK/" $FILE_NAME;
+fi
