@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # create a key pair
-ssh-keygen -b 4096;
-sleep 5;
-echo "school">0;
-sleep 5;
-echo "betty">0;
+# Define variables
+KEY_NAME="id_rsa"      # Change this to the desired key name
+PASSPHRASE="school"    # Change this to your desired passphrase
+
+# Generate the SSH key pair without manual input
+ssh-keygen -b 4096 -t rsa -f "$HOME/.ssh/$KEY_NAME" -N "$PASSPHRASE"
