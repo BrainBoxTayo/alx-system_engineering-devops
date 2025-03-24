@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# ssh config gile
+
+Host ubuntu
+        HostName 3.87.30.119
+        User user
+	IdentityFile ~/.ssh/school
+PasswordAuthentication no
