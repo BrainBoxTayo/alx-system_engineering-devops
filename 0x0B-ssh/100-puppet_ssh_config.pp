@@ -1,3 +1,4 @@
+# creates a config file
 node default {
   file{'/home/ubuntu/.ssh/config':
   ensure => 'present',
