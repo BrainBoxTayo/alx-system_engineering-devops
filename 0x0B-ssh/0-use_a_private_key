@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+#connect to a server using a private key
+
+ssh ubuntu@3.87.30.119
