@@ -2,6 +2,6 @@
 # create a key pair
 ssh-keygen -b 4096;
 sleep 5;
-echo "~/.ssh/school">1;
+echo "school">1;
 sleep 5;
 echo "betty">1;
